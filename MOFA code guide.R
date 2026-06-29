@@ -1,4 +1,4 @@
-##installing packages
+##installing packagess
 
 install.packages(c(
   "data.table",
